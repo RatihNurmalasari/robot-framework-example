@@ -6,7 +6,7 @@ ${URL} 				https://www.detik.com/
 ${BROWSER} 			chrome
 ${LINUX_DRIVER} 	/usr/local/bin/chromedriver
 ${MAC_DRIVER} 		/usr/local/bin/chromedriver
-${WIN_DRIVER} 		C:\Python27\chromedriver.exe
+${WIN_DRIVER} 		../../driver/win/chromedriver.exe
 
 
 *** Keywords ***
