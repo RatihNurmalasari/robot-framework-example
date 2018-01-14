@@ -1,5 +1,6 @@
 *** Settings ***
 Library             Selenium2Library
+Library             AllureReportLibrary      ./allure-results
 
 *** Variable ***
 ${URL} 				https://www.detik.com/
